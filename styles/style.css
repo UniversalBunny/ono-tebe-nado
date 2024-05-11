@@ -339,7 +339,7 @@
     margin: 0 50px 88px;
 }
 
-.grid {
+.footer_grid {
     width: 1000px;
     display: grid;
     grid-template-columns: 2fr 1fr 2fr;
